@@ -6,12 +6,14 @@ Full-stack JavaScript Engineer (6+ years) building scalable, high-performance we
 
 ## 🚀 About Me
 
-- ⚛️ Frontend specialist:  
+- ⚛️ Frontend specialist:
+  
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
-- 🛠 Backend experience:  
+- 🛠 Backend experience:
+  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
