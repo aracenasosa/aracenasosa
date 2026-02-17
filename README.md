@@ -7,36 +7,26 @@ Full-stack JavaScript Engineer (6+ years) building scalable, high-performance we
 ## 🚀 About Me
 
 - ⚛️ Frontend specialist:  
-  <img src="https://cdn.simpleicons.org/react" width="18" /> React  
-  <img src="https://cdn.simpleicons.org/nextdotjs" width="18" /> Next.js  
-  <img src="https://cdn.simpleicons.org/angular" width="18" /> Angular  
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 - 🛠 Backend experience:  
-  <img src="https://cdn.simpleicons.org/node.js" width="18" /> Node.js  
-  <img src="https://cdn.simpleicons.org/express" width="18" /> Express  
-  <img src="https://cdn.simpleicons.org/nestjs" width="18" /> NestJS  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
-- 🏦 Industry experience: Fintech, Telecommunications, Travel & Booking Systems  
-- 📍 Based in Santo Domingo, Dominican Republic  
-- 🎯 Passionate about clean architecture, performance, and modern UI
+- 🏦 Industry experience: Fintech • Telecommunications • Travel & Booking Systems  
+- 📍 Santo Domingo, Dominican Republic  
+- 🎯 Passionate about clean architecture, performance, and modern UI  
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/carlos-jose-aracena-sosa-16684a17b/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin" width="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://personal-portfolio-rho-flax.vercel.app/" target="_blank">
-    <img src="https://cdn.simpleicons.org/vercel" width="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:caracenasosa@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="30" />
-  </a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caracenasosa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-jose-aracena-sosa-16684a17b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-rho-flax.vercel.app/)
 
 ---
 
