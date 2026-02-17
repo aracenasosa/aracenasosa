@@ -15,38 +15,6 @@ Full-stack JavaScript Engineer (6+ years) building scalable, high-performance we
 
 ---
 
-## 🔥 Featured Projects
-
-### 📱 Pokédex App  
-Modern React Pokédex built with React 19, TypeScript, TanStack Query, Lodash, infinite scroll, filtering, and responsive UI.
-
-### 📈 Stock Watch App  
-Real-time stock market tracker built with React Native and NestJS featuring WebSocket streaming and interactive charts.
-
-### 🌐 Threads Social Network  
-Full-stack theme-responsive social network built with Next.js, Express, and MongoDB.
-
----
-
-## 🧠 Tech Stack
-
-- **Languages:** JavaScript, TypeScript
-- **Frontend:** React, Next.js, Angular
-- **Backend:** Node.js, Express, NestJS
-- **Databases:** MongoDB, PostgreSQL
-- **Mobile:** React Native
-- **Tools:** Git, REST APIs, WebSockets
-
----
-
-## 📊 GitHub Stats
-
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=aracenasosa&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aracenasosa&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/carlos-jose-aracena-sosa-16684a17b/
